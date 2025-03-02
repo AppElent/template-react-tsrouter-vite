@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "appelent-bc868"
+  },
+  "targets": {
+    "appelent-bc868": {
+      "hosting": {
+        "stg": [
+          "appelent-stg"
+        ],
+        "prd": [
+          "appelent-bc868"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
